@@ -14,6 +14,8 @@
 
 [Out-of-Distribution Prediction with Invariant Risk Minimization: The Limitation and An Effective Fix, R Guo, et al., 2021, arxiv](https://arxiv.org/pdf/2101.07732)
 
+[Nonlinear Invariant Risk Minimization: A Causal Approach, C Lu, et al., 2021, arxiv](https://arxiv.org/pdf/2102.12353.pdf)
+
 ### Relevant
 
 [Shortcut Learning in Deep Neural Networks, R Geirhos, et al., 2020, Nature Machine Intelligence](https://arxiv.org/pdf/2004.07780.pdf)
