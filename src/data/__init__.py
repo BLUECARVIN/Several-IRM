@@ -1,0 +1,2 @@
+from .synthetic_data import ChainEquationModel
+from .colored_mnist import make_environments
